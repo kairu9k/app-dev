@@ -46,6 +46,6 @@ Welcome to my GitHub repository! Below is a list of my favorite movies!
 **Director:** Damien Leone  
 **Release Year:** 2016
 
-*Terrifier* is a slasher horror film featuring Art the Clown, who terrorizes two women on Halloween night. The film is known for its graphic violence and chilling atmosphere.
+*Terrifier* is a slasher horror film featuring Art the Clown, who terrorizes two women on Halloween night. The film is known for its graphic violence and chilling atmosphere!
 
 ---
