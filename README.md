@@ -1,10 +1,11 @@
 # app-dev
 06 Task Performance 1
-# My Favorite Movies
+
+<h1 style="color: #FF6347;">My Favorite Movies</h1>
 
 Welcome to my GitHub repository! Below is a list of my favorite movies, along with some information about each one. Enjoy!
 
-## 1. Interstellar
+<h2 style="color: #4682B4;">1. Interstellar</h2>
 
 **Director:** Christopher Nolan  
 **Release Year:** 2014
@@ -20,7 +21,7 @@ Welcome to my GitHub repository! Below is a list of my favorite movies, along wi
 
 ---
 
-## 2. Attack on Titan
+<h2 style="color: #4682B4;">2. Attack on Titan</h2>
 
 **Type:** Anime Series  
 **Release Year:** 2013
@@ -37,7 +38,7 @@ Welcome to my GitHub repository! Below is a list of my favorite movies, along wi
 
 ---
 
-## 3. Demon Slayer
+<h2 style="color: #4682B4;">3. Demon Slayer</h2>
 
 **Type:** Anime Series  
 **Release Year:** 2019
@@ -50,7 +51,7 @@ Welcome to my GitHub repository! Below is a list of my favorite movies, along wi
 
 ---
 
-## 4. Jigsaw
+<h2 style="color: #4682B4;">4. Jigsaw</h2>
 
 **Director:** Michael Spierig, Peter Spierig  
 **Release Year:** 2017
@@ -63,7 +64,7 @@ Welcome to my GitHub repository! Below is a list of my favorite movies, along wi
 
 ---
 
-## 5. Terrifier
+<h2 style="color: #4682B4;">5. Terrifier</h2>
 
 **Director:** Damien Leone  
 **Release Year:** 2016
@@ -75,3 +76,11 @@ Welcome to my GitHub repository! Below is a list of my favorite movies, along wi
 - **Intense Atmosphere:** The tension builds throughout, making it a thrilling experience.
 
 ---
+
+## Conclusion
+
+These movies showcase a variety of genres and storytelling styles that resonate with me. From thought-provoking science fiction to heart-pounding horror, each film offers something unique. If you haven't seen them yet, I highly recommend checking them out!
+
+---
+
+Feel free to clone this repository and share your own favorite movies or modify the content as you wish! Enjoy!
