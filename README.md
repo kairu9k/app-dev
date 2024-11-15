@@ -1,11 +1,11 @@
 # app-dev
 06 Task Performance 1
 
-<h1 style="color: #FF6347;">My Favorite Movies</h1>
+# My Favorite Movies
 
 Welcome to my GitHub repository! Below is a list of my favorite movies, along with some information about each one. Enjoy!
 
-<h2 style="color: #4682B4;">1. Interstellar</h2>
+## 1. Interstellar
 
 **Director:** Christopher Nolan  
 **Release Year:** 2014
@@ -21,7 +21,7 @@ Welcome to my GitHub repository! Below is a list of my favorite movies, along wi
 
 ---
 
-<h2 style="color: #4682B4;">2. Attack on Titan</h2>
+## 2. Attack on Titan
 
 **Type:** Anime Series  
 **Release Year:** 2013
@@ -38,7 +38,7 @@ Welcome to my GitHub repository! Below is a list of my favorite movies, along wi
 
 ---
 
-<h2 style="color: #4682B4;">3. Demon Slayer</h2>
+## 3. Demon Slayer
 
 **Type:** Anime Series  
 **Release Year:** 2019
@@ -51,7 +51,7 @@ Welcome to my GitHub repository! Below is a list of my favorite movies, along wi
 
 ---
 
-<h2 style="color: #4682B4;">4. Jigsaw</h2>
+## 4. Jigsaw
 
 **Director:** Michael Spierig, Peter Spierig  
 **Release Year:** 2017
@@ -64,7 +64,7 @@ Welcome to my GitHub repository! Below is a list of my favorite movies, along wi
 
 ---
 
-<h2 style="color: #4682B4;">5. Terrifier</h2>
+## 5. Terrifier
 
 **Director:** Damien Leone  
 **Release Year:** 2016
